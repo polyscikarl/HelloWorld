@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-This is an intro to GitHub
+“I am now learning about git and branching.
